@@ -7,7 +7,6 @@
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-red)
 ![Focus](https://img.shields.io/badge/Focus-Penetration%20Testing-blue)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-brightgreen)
-![Labs](https://img.shields.io/badge/Labs-200%2B-blueviolet)
 
 
 # TryHackMe Walkthroughs & Writeups 
